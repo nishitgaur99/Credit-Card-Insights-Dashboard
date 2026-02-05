@@ -51,9 +51,12 @@ Key focus areas:
 - Revenue by card category and payment method
 - Quarterly churn-risk KPI for retention health monitoring
 
+---
 
 ![Executive Dashboard 1](data/exec1.png)
+---
 ![Executive Dashboard 2](data/exec2.png)
+---
 ![Executive Dashboard 3](data/exec3.png)
 
 ---
@@ -69,8 +72,10 @@ Key focus areas:
 - **Risk vs. Value heatmap** highlighting high-priority retention segments
 - Dynamic metric comparison to analyze trends over time
 
+---
 
 ![Customer Insights Dashboard 1](data/cust1.png)
+---
 ![Customer Insights Dashboard 2](data/cust2.png)
 
 ---
@@ -85,6 +90,7 @@ Key focus areas:
 - Utilization and customer satisfaction trends by geography
 - Interactive map tooltips for contextual regional insights
 
+---
 
 ![Geographic Analysis](data/map1.png)
 
